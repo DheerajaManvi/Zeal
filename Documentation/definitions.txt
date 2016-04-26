@@ -1,0 +1,11 @@
+# This is Definitions file...
+
+What is OS?
+
+
+
+What is Program?
+
+
+
+What is Compiler? 
