@@ -20,4 +20,15 @@ What is interpreter?
 Interpreter translates a program line-by-line and carries out the specified action in a sequence.
 
 
+What is assembler?
+An assembler is a type of computer program that interprets software progrms written in assembly language into machine language.
+
+
+What is algorithm?
+An algorithm is a well-defined procedure that allows a computer to solve a problem. Another way to define algorithm is a sequence of unambiguous intrusctions.
+
+What is flowchart?
+A flowchart is atype of programs that represent an algorithm,workflow or process, showing the steps as boxes of various kinds, and their order by connecting them with arrows.
+
+
 
