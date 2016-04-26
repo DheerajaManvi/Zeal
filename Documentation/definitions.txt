@@ -1,11 +1,11 @@
 # This is Definitions file...
 
 What is OS?
-
+OS is an interface between user and the system/computer.
 
 
 What is Program?
-
+A Program is a set of instructions or statements ....Dheeraja will follow it.... 
 
 
 What is Compiler? 
