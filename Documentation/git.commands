@@ -4,4 +4,5 @@ git commit -m "Commit"
 git push
 git clone https://github.com/DheerajaManvi/Zeal.git
 git pull
+   To update the files from github to local
 
