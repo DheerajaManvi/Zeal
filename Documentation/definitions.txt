@@ -5,7 +5,12 @@ OS is an interface between user and the system/computer.
 
 
 What is Program?
-A Program is a set of instructions or statements ....Dheeraja will follow it.... 
+A Program is a set of instructions or statements that performs a specific task when executed by a computer
 
 
-What is Compiler? 
+What is Compiler?
+A compiler is a specific program that processes statements written in a particular programming language and turns them into machine language.
+
+
+What is kernal?
+The kernal a computer program that constitutes to the central core of a computer operating system.
