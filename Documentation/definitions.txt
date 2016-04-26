@@ -14,3 +14,10 @@ A compiler is a specific program that processes statements written in a particul
 
 What is kernal?
 The kernal a computer program that constitutes to the central core of a computer operating system.
+
+
+What is interpreter?
+Interpreter translates a program line-by-line and carries out the specified action in a sequence.
+
+
+
