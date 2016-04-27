@@ -1,4 +1,12 @@
-This is C programs folder
+ #####
+#     #
+#
+#
+#
+#     #
+ #####
+
+#########
 
 HelloWorld.c
    This is my first c program...lets get rolling!!
@@ -15,5 +23,3 @@ Student.c
    (feels good, getting familiar with the "tech stuff" finally)
    Coming to commands and stuff, everything is as the previous program.
 
-
-    

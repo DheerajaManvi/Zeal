@@ -1,4 +1,13 @@
-This is Java Programs...
+
+      #
+      #    ##    #    #    ##
+      #   #  #   #    #   #  #
+      #  #    #  #    #  #    #
+#     #  ######  #    #  ######
+#     #  #    #   #  #   #    #
+ #####   #    #    ##    #    #
+
+################################
 
 HelloWorld.java
    this is first java program.
@@ -15,5 +24,4 @@ Student.java
    And also I tried make it as presentable as possible
    (feels good, getting familiar with the "tech stuff" finally)
    Coming to commands and stuff, everything is as the previous program.
-   
    
