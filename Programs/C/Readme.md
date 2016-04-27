@@ -6,8 +6,8 @@ HelloWorld.c
    Command: gcc HelloWorld.c<br>
    Output:a.out<br>
    Run> ./a.out <br>
-   This Displays 'Hello, World!'
-Student.c
+   This Displays 'Hello, World!'<br>
+Student.c<br>
    This is the second program.I am supposed to do 10 programs for today based<br>
    only on the printf statements.<br>
    All the student details are given in this program<br>
