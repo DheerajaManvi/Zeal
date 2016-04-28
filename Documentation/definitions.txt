@@ -30,5 +30,11 @@ An algorithm is a well-defined procedure that allows a computer to solve a probl
 What is flowchart?
 A flowchart is atype of programs that represent an algorithm,workflow or process, showing the steps as boxes of various kinds, and their order by connecting them with arrows.
 
+What is verification?
+Verification process describes whether the outputs are according to the inputs or not. (walkthrough,review,inspection)
+
+What is validation?
+validation process describes whether the software is accepted by the user or not.(testing,end users)
+
 
 
