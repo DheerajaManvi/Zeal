@@ -1,5 +1,6 @@
 #include<stdio.h>
-void main(){
+
+void main() {
 
    int v,i,r;
 
@@ -9,4 +10,5 @@ void main(){
    v=i*r;
 
    printf("The value of v:%d\n",v);
+
 }
