@@ -1,0 +1,26 @@
+Command Description
+------- -----------
+0 or |  Positions cursor at beginning of line.
+$       Positions cursor at end of line.
+w       Positions cursor to the next word.
+b       Positions cursor to previous word.
+(       Positions cursor to beginning of current sentence.
+)       Positions cursor to beginning of next sentence.
+E       Move to the end of Blank delimited word
+{       Move a paragraph back
+}       Move a paragraph forward
+[[      Move a section back
+]]      Move a section forward
+n|      Moves to the column n in the current line
+1G      Move to the first line of the file
+G       Move to the last line of the file
+nG      Move to nth line of the file
+:n      Move to nth line of the file
+fc      Move forward to c
+Fc      Move back to c
+H       Move to top of screen
+nH      Moves to nth line from the top of the screen
+M       Move to middle of screen
+L       Move to botton of screen
+nL      Moves to nth line from the bottom of the screen
+:x      Colon followed by a number would position the cursor on line number represented by x
