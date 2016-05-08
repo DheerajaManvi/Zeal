@@ -6,24 +6,32 @@ Program to print prime number
 
 #include<stdio.h>
 main() {
-   int i,n,p=1;
+   int i,n,p,c;
 
    printf("Enter any number:");
    scanf("%d",&n);
 
-   i=2;
+   c = 2;
 
-   while(i<n){
-     if(n%i==0){
-           p=0;
-               }
-         i++;
-            }
-     if(p=1) {
-       printf("prime number\n");
-             }
+   while( c <= n) {
 
-      else {
-        printf("not a prime number\n");
-           }
-       }
+      i = 2;
+      p = 1;
+
+   while (i < c && p == 1) {  
+
+      if( c % i == 0) {
+
+           p = 0;
+     }
+      i++;
+   }
+         
+     if(p == 1) {
+
+       printf(" %d, ",c);
+     }
+      c++;
+   }
+      printf("\n");
+}
