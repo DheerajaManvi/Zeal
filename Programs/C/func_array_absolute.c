@@ -25,7 +25,6 @@ int main() {
    for ( int i = 0 ; i < n; i++ ) {
       printf ("Enter %d Number: ", i+1 ) ;
       scanf  ("%d", &a[i] ) ;
-
    }
 
    for ( int i = 0 ; i < n ; i++ ) { 
@@ -35,7 +34,6 @@ int main() {
       q[i] = cube ( b[i] ) ;
       quad[i] = quady( b[i] ) ;
       fifth[i] = fifth5th ( b[i] );
-
    }
 
    printArrayInt ( n, "Org", a ) ;
@@ -49,11 +47,13 @@ int main() {
 
 }
 
+
 int square ( int num ) {
 
    return ( num * num ) ;
 
 } 
+
 
 int cube ( int num ) {
 
@@ -61,17 +61,20 @@ int cube ( int num ) {
 
 }
 
+
 int quady ( int num ) {
 
    return ( cube ( num ) * num ) ;
 
 }
 
+
 int fifth5th ( int num ) {
 
    return ( num * num * num * square ( num ) ) ;
 
 }
+
 
 int myround ( int num ) {
 
@@ -92,6 +95,15 @@ int absolute ( int value ) {
 }
 
 
+/*
+printArrayInt:
+   Inputs: int, char [], int []
+   output: void
+   Description: This is function is to print Integer Arrays with comment text (char[])
+   
+   Example:
+   Array(Round): [ 1, 2, 3,.... ]
+*/
 void printArrayInt ( int n, char name[], int num[] ) {
 
     printf ("\nArray (%s): [ ", name ) ;
