@@ -1,0 +1,5 @@
+ class File {
+
+    public static String pathSeparator = "Strings" ;
+
+}

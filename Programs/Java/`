@@ -1,0 +1,32 @@
+
+
+class LRShift {
+
+
+   public static void main ( String[] args ) {
+
+      int a = 32 ;
+
+      while (a != 0 ) {
+
+         a  = a << 2 ;
+         System.out.println( "Left : "  + a ) ;
+      }
+
+      int r = a >> 2 ;
+
+      while(a != 0 ) {
+
+         a = a >> 2 ;
+         System.out.println( "Right : " + a ) ;
+
+
+      }
+
+
+   }
+
+
+
+
+}
